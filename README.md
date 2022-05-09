@@ -1,7 +1,7 @@
 - Hi, I’m Gump0 👋
 - I make random shit
 - I like to learn
-- Currently learning c++ & Ruby
+- Currently learning c++ & LUA
 - Aspring game dev and schizo lifter
 - Average endevourOS enjoyer
 
