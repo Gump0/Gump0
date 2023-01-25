@@ -2,7 +2,8 @@
 - I make random stuff
 - I like to learn
 - Currently learning c++ & LUA
-- Aspring game dev, hustler and lifter 💪
+- Aspring game dev
+- Hustler and lifter 💪
 - Average endevourOS enjoyer (I use arch btw)
 
 <!---
