@@ -1,7 +1,7 @@
 - Hi, I’m Gump0 👋
 - I make random stuff
 - I like to learn
-- Currently learning c++ & LUA
+- Currently learning c#
 - Aspring game dev
 - Hustler and lifter 💪
 - Average endevourOS enjoyer (I use arch btw)
