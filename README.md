@@ -2,7 +2,7 @@
 
 **`Digital Blacksmith (Developer/Designer/Entrepenuer`**
 
-Linux enthusiest, game designer, aspiring software craftsmen, and future entrepenuer.
+Linux enthusiast, game designer, aspiring software craftsmen, and future entrepenuer.
 
 ![alt text](https://www.webdesignmuseum.org/uploaded/exhibitions/web-banners-in-the-90s/volkswagen-2000.gif)
 ---
