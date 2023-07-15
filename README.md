@@ -1,6 +1,6 @@
 # 🏍️ Gump0 // Gleb
 
-**`Digital Blacksmith (Developer/Designer/Entrepenuer`**
+**`Digital Blacksmith (Developer/Designer/Entrepenuer)`**
 
 Linux enthusiast, game designer, aspiring software craftsmen, and future entrepenuer.
 
