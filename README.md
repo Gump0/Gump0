@@ -4,7 +4,7 @@
 
 Linux enthusiast, game designer, aspiring software craftsmen, and future entrepenuer.
 
-![](https://tenor.com/view/lain-computer-gif-20283313)
+![](https://media.tenor.com/G9wtd4WhwXIAAAAC/lain-computer.gif)
 ---
 
 <!---
