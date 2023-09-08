@@ -1,10 +1,10 @@
-# 🏍️ Gump0 // Gleb
+# 👨‍💻 Gump0 // Gleb
 
-**`Digital Blacksmith (Developer/Designer/Entrepenuer)`**
+**`Digital Blacksmith (Developer/Designer)`**
 
 Linux enthusiast, game designer, aspiring software craftsmen, and future entrepenuer.
 
-![](https://media.tenor.com/G9wtd4WhwXIAAAAC/lain-computer.gif)
+![](https://media.tenor.com/ua2pghKGg4YAAAAC/lucky-star-anime.gif)
 ---
 
 <!---
