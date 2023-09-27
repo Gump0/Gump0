@@ -1,7 +1,9 @@
 <p align="center">
 👨‍💻 Gump0 // Gleb
 </p>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Gump0)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 
 **`Digital Blacksmith (Developer/Designer)`**
