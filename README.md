@@ -4,7 +4,7 @@
 
 Linux enthusiast, game designer, aspiring software craftsmen, and future entrepenuer.
 
-![](https://media.tenor.com/ua2pghKGg4YAAAAC/lucky-star-anime.gif)
+![](https://media.giphy.com/media/CKpfVLenbuvQc/giphy.gif)
 ---
 
 <!---
