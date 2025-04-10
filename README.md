@@ -7,7 +7,8 @@
 
 **`Digital Blacksmith (Developer/Designer)`**
 
-Linux enthusiast, game designer, aspiring software craftsman, and future entrepreneur.
+Gameplay programmer, AI developer, and linux enthusiast.
+I primarily focus in AI and systems design, and enjoy learning new things!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gump0&hide_progress=true)
 
