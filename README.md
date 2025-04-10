@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gump0)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-**`Digital Blacksmith (Developer/Designer)`**
+**`The "Digital Blacksmith"`**
 
 Gameplay programmer, AI developer, and linux enthusiast.
 I primarily focus in AI and systems design, and enjoy learning new things!
