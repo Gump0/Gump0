@@ -7,9 +7,9 @@
 
 **`The "Digital Blacksmith"`**
 
-Gameplay programmer, AI developer, and linux enthusiast.
+Gameplay programmer, AI developer, and Linux enthusiast.
 <br>
-I primarily focus in AI and systems design, and enjoy learning new things!
+I primarily focus on AI and systems design and enjoy learning new things!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gump0&hide_progress=true)
 
