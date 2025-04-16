@@ -9,7 +9,7 @@
 
 Gameplay programmer, AI developer, and Linux enthusiast.
 <br>
-I primarily focus on AI and ystems design. I also enjoy learning new technologies and frameworks!
+I primarily focus on AI and systems design. I also enjoy learning new technologies and frameworks!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gump0&hide_progress=true)
 
