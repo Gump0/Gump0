@@ -2,9 +2,6 @@
 
 <h1>🧙‍♂️ Gump0 // Gleb</h1>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gump0)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 **`Self-proclaimed "Digital Wizard"`**
 
 Game developer, and Linux enthusiast.
